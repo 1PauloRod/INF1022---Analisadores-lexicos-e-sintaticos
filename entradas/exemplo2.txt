@@ -1,0 +1,6 @@
+ENTRADA X 
+SAIDA Y 
+X=Y 
+FIM 
+
+
